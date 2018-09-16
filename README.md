@@ -1,4 +1,2 @@
 # 14-super
-Awesome
-This time, it's from Atom!
-super template
+This would be a demonstration of committing files from Atom.
